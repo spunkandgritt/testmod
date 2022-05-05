@@ -1,5 +1,5 @@
 * @spunkandgritt
-
+*.txt @spunkandgritt
 .github/ @spunkandgritt
 
 CODEOWNERS @spunkandgritt
